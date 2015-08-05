@@ -1,2 +1,3 @@
 # Test
 Just playing around ...
+This is just for learning GitHub basics ... there's nothing fancy here, I'm afraid.
